@@ -1,0 +1,18 @@
+{
+  "name": "baru",
+  "version": "1.0.0",
+  "description": "latihan",
+  "main": "test.js",
+  "scripts": {
+    "test": "node axios.js",
+    "server": "node test.js"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "agung",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
